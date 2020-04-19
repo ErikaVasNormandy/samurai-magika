@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'Samurai Magika Fan Wiki',
+    siteUrl: 'https://samurai-magika.netlify.app/',
     gaTrackingId: null,
     trailingSlash: false,
   },
