@@ -9,7 +9,7 @@ const config = {
     logo: 'https://gamepedia.cursecdn.com/l5r_gamepedia_en/thumb/1/1f/Rings.png/300px-Rings.png?version=847592acb13aa436aa4a6a90e7631c1b',
     logoLink: '',
     title:
-      "<a href='“You can always die. It's living that takes real courage”' alt='Learn logo' /></a>",
+      "<a href='“A feudal fairy tale in fantasy Japan”' alt='Learn logo' /></a>",
     githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
     helpUrl: '',
     tweetText: '',
@@ -47,12 +47,12 @@ const config = {
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
     frontline: false,
     ignoreIndex: true,
-    title: "<i>\"To live with honor in service to the heavens, to die by \"</i>",
+    title: "<i>\"A warrior is worthless unless he rises above others and stands strong in the midst of a storm."</i>",
   },
 
 
   siteMetadata: {
-    title: 'Samurai Majika | A Tale From L5R',
+    title: 'Samurai Magika | A Tale From L5R',
     description: 'A fan-made wiki, built by and made for the fans of both the anime and light novel',
     ogImage: 'https://gamepedia.cursecdn.com/l5r_gamepedia_en/thumb/1/1f/Rings.png/300px-Rings.png?version=847592acb13aa436aa4a6a90e7631c1b',
     docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
@@ -61,8 +61,8 @@ const config = {
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'Samurai Majika Fandom Wiki',
-      short_name: 'SamuraiMajika',
+      name: 'Samurai Magika Fandom Wiki',
+      short_name: 'SamuraiMagika',
       start_url: '/',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',
