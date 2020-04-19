@@ -47,7 +47,7 @@ const config = {
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
     frontline: false,
     ignoreIndex: true,
-    title: "<i>\"A warrior is worthless unless he rises above others and stands strong in the midst of a storm./"</i>",
+    title: "<i>\"A warrior is worthless unless he rises above others and stands strong in the midst of a storm.\"</i>",
   },
 
 
