@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'Samurai Magika Wiki',
+    siteUrl: 'https://samurai-magika.netlify.app/',
     gaTrackingId: null,
     trailingSlash: false,
   },
@@ -47,7 +47,7 @@ const config = {
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
     frontline: false,
     ignoreIndex: true,
-    title: "<i>\"A warrior is worthless unless he rises above others and stands strong in the midst of a storm.\"</i>",
+    title: "<i>\"To live with honor in service to the heavens, to die by \"</i>",
   },
 
 
