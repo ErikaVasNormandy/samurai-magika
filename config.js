@@ -47,7 +47,7 @@ const config = {
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
     frontline: false,
     ignoreIndex: true,
-    title: "<i>\"To live with honor in service to the heavens, to die by \"</i>",
+    title: "<i>\" Honour may not win power, but it wins respect. And respect earns power \"</i>",
   },
 
 
