@@ -1,26 +1,16 @@
 ---
 title: "Main Characters"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "Main Characters"
+metaDescription: "POV Characters"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+The anime largely focuses on three POV characters from the light novel: Natsuki, Jotaro, and Hideaki. 
 
-```javascript
-import React from 'react';
-```
 
-Supports multiple languages.
+## Natsuki Kuni
+![Natsuki Kuni](https://cdnb.artstation.com/p/assets/images/images/024/267/863/large/erika-hudiono-asset.jpg?1581874956)
+## Jotaro Hiruma
+![Jotaro Hiruma](https://cdnb.artstation.com/p/assets/images/images/024/267/859/large/erika-hudiono-asset.jpg?1581874944)
+## Hideaki Kakita
+![Hideaki Kakita](https://cdna.artstation.com/p/assets/images/images/024/267/848/large/erika-hudiono-asset.jpg?1581874933)
 
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
-
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
-
-## Live Editing example
-
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
