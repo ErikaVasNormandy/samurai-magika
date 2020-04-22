@@ -4,7 +4,7 @@ metaTitle: "Main Characters"
 metaDescription: "POV Characters"
 ---
 
-The anime largely focuses on three POV characters from the light novel: Natsuki, Jotaro, and Hideaki. 
+The anime largely focuses on three POV characters from the light novel: Natsuki, Jotaro, and Hideaki. While some of the chapters in the light novel were told from Gen and Aki's perspective, budget constraints cut these scenes. 
 
 
 ## Natsuki Kuni
